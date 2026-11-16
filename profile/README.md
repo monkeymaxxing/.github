@@ -2,7 +2,7 @@
 
 **Reject the galaxy brain. Return to monkey.**
 
-Run your own server systems: secure, massively scalable, and a fraction of the cost.
+Run your own server systems: bank-vault secure, massively scalable, and a fraction of the cost.
 
 Free, open source tools for running your own server systems. You or your
 coding agent use them to build, fix, and move every part.
