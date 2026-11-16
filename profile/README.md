@@ -1,6 +1,7 @@
 # Monkeymaxxing
 
 **Reject the galaxy brain. Return to monkey.**
+
 Simple server systems: Lean. Fast. Harder to hack.
 
 Open source tools for running your own servers. Your coding agent, such as
