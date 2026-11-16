@@ -2,10 +2,10 @@
 
 **Reject the galaxy brain. Return to monkey.**
 
-Simple server systems: Lean. Fast. Harder to hack.
+Run your own server systems: secure, massively scalable, and a fraction of the cost.
 
-Open source tools for running your own servers. Your coding agent, such as
-Claude Code or Codex, can do the work with them, or you can do it yourself.
+Free, open source tools for running your own server systems. You or your
+coding agent use them to build, fix, and move every part.
 
 | Tool | What it does |
 | --- | --- |
