@@ -1,8 +1,8 @@
 # Monkeymaxxing
 
-**Reject the galaxy brain. Return to monkey.**
+**Server systems run by your coding agent: bank-vault secure, massively scalable, and a fraction of the cost.**
 
-Run your own server systems: bank-vault secure, massively scalable, and a fraction of the cost.
+Reject the galaxy brain. Return to monkey.
 
 Free, open source tools for running your own server systems. You or your
 coding agent use them to build, fix, and move every part.
